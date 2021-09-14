@@ -15,9 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Under construction
-
-Hi there! I'm Zhilin and I work on Natural Language Processing for Conversational AI, Psychology and Education!
+Hi there! I'm Zhilin and I work on Natural Language Processing for Conversational AI, Psychology and Education! I work with a range of methods involving generation, ranking and integrating structured data (i.e. knowledge graphs).
 
 [Find out more about my work here](/more)!  
 

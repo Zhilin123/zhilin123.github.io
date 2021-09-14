@@ -2,7 +2,7 @@
 layout: page
 permalink: /more/
 title: project details
-description: 
+description:
 nav: True
 ---
 
@@ -16,7 +16,7 @@ To achieve my goal of using NLP to better understand how each person talks, thin
 
 ***During my SDE Internship at Amazon Alexa AI Knowledge***
 
-3. What can we do to link natural language expressions to objects and concepts (i.e. entities) in the real world? How can we support machines to make use of this world knowledge in understand natural language, as humans do?
+3. What can we do to link natural language expressions to objects and concepts (i.e. entities) in the real world? How can we support machines to make use of this world knowledge in understand natural language, as humans do? <a href="https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2021/02/alexa-entities-beta" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank" style="border: 1px solid">Publically Released Product</a> 
 
 ***During my BA Psychology and Education at University of Cambridge***
 
