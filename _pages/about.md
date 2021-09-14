@@ -8,6 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   address: Email me at wangzhilin123 [at] gmail [dot] com
+           [CV](https://github.com/Zhilin123/Publications/blob/master/Zhilin_Wang_CV.pdf)
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
