@@ -17,6 +17,22 @@
     abstract = "While many different aspects of human experiences have been studied by the NLP community, none has captured its full richness. We propose a new task to capture this richness based on an unlikely setting: movie characters. We sought to capture theme-level similarities between movie characters that were community-curated into 20,000 themes. By introducing a two-step approach that balances performance and efficiency, we managed to achieve 9-27{\%} improvement over recent paragraph-embedding based methods. Finally, we demonstrate how the thematic information learnt from movie characters can potentially be used to understand themes in the experience of people, as indicated on Reddit posts.",
 }
 
+@inproceedings{wang-etal-2021-plot-twist,
+   title={Plot Twist: Uncovering Surprising Event Boundaries in Narratives},
+   author={Wang, Zhilin and Jafarpour, Anna and Sap, Maarten},
+   year="2021",
+   note={under review},
+   pdf = "https://github.com/Zhilin123/Publications/blob/master/story_events.pdf",
+   abs = {When reading stories, people can naturally identify sentences in which a new event starts, i.e., event boundaries, using their knowledge of how events typically unfold, but a computational model to detect event boundaries is not yet available.
+          In this study, we characterize and detect sentences with expected or surprising event boundaries in an annotated corpus of short diary-like stories.
+          We train a detection model that combines commonsense knowledge and narrative flow features with a RoBERTa classifier.
+          Our results show that, while commonsense and narrative features can help improve performance overall, detecting event boundaries that are more subjective remains challenging for our model.
+          Upon inspection of the model parameters, we find that sentences marking surprising event boundaries are less likely to be causally related to the preceding sentence, but are more likely to express emotional reactions of story characters, compared to sentences with no event boundary.
+          Additionally, our model performs well in the closely related task of detecting stories with endings that do not follow commonsense from a different corpus.
+          Our results show promise of using models with commonsense knowledge and narrative flow features to shed light on detecting event boundaries in narratives.
+        },
+}
+
 @inproceedings{wang-etal-2019-youre,
     title = "No, you{'}re not alone: A better way to find people with similar experiences on {R}eddit",
     author = "Wang, Zhilin  and
