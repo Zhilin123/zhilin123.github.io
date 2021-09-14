@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: NLP at UW/Alexa/Cambridge
 
 profile:
   align: right
   image: prof_pic.png
-  address:
+  address: Email me at wangzhilin123 [at] gmail [dot] com
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,18 +20,17 @@ Hi there! I'm Zhilin and I work on Natural Language Processing for Conversationa
 
 To achieve this goal, I have studied
 
-*MS Computational Linguistic (NLP) at University of Washington *
+*During my MS Computational Linguistic (NLP) at University of Washington*
 
 1. How personal attributes (such as one's favourite food and music) can be extracted and inferred from conversational language, and their applications in open-domain chit-chat agents and multi-task task-oriented dialogue.
 
 2. How to use commonsense knowledge and language models to understand how humans form expectations of events unfolding in stories and when such expectations fail?
 
-*SDE Intern at Amazon Alexa AI Knowledge*
+*During my SDE Internship at Amazon Alexa AI Knowledge*
 
 3. What can we do to link natural language expressions to objects and concepts (i.e. entities) in the real world? How can we support machines to make use of this world knowledge in understand natural language, as humans do?
 
-*BA Psychology and Education at University of Cambridge*
-
+*During my BA Psychology and Education at University of Cambridge*
 
 4. What characterizes empathetic language, as used in social media (Reddit)? How can empathy be efficiently and accurately labelled based on signals from social interaction?
 
