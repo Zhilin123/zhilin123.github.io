@@ -20,11 +20,18 @@ Hi there! I'm Zhilin and I work on Natural Language Processing for Conversationa
 
 To achieve this goal, I have studied
 
+*MS Computational Linguistic (NLP) at University of Washington *
+
 1. How personal attributes (such as one's favourite food and music) can be extracted and inferred from conversational language, and their applications in open-domain chit-chat agents and multi-task task-oriented dialogue.
 
 2. How to use commonsense knowledge and language models to understand how humans form expectations of events unfolding in stories and when such expectations fail?
 
+*SDE Intern at Amazon Alexa AI Knowledge*
+
 3. What can we do to link natural language expressions to objects and concepts (i.e. entities) in the real world? How can we support machines to make use of this world knowledge in understand natural language, as humans do?
+
+*BA Psychology and Education at University of Cambridge*
+
 
 4. What characterizes empathetic language, as used in social media (Reddit)? How can empathy be efficiently and accurately labelled based on signals from social interaction?
 
@@ -40,15 +47,6 @@ To achieve this goal, I have studied
 
 10. How can we offer personalized guidance to students 24/7 when they encounter a question that they're stuck on? Might retrieving semantically-related questions with step-by-step solutions help?
 
+[comment]: Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-
-
-
-
-
-Past:
-MS Computational Linguistic (NLP) at University of Washington; SDE Intern at Amazon Alexa AI Knowledge; BA Psychology and Education at University of Cambridge
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[comment]: Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
