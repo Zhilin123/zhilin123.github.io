@@ -1,72 +1,34 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,}
+@inproceedings{wang-etal-2021-learning-similarity,
+    title = "Learning Similarity between Movie Characters and Its Potential Implications on Understanding Human Experiences",
+    author = "Wang, Zhilin  and
+      Lin, Weizhe  and
+      Wu, Xiaodong",
+    booktitle = "Proceedings of the Third Workshop on Narrative Understanding",
+    month = jun,
+    year = "2021",
+    address = "Virtual",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.nuse-1.3",
+    doi = "10.18653/v1/2021.nuse-1.3",
+    pages = "24--35",
+    abstract = "While many different aspects of human experiences have been studied by the NLP community, none has captured its full richness. We propose a new task to capture this richness based on an unlikely setting: movie characters. We sought to capture theme-level similarities between movie characters that were community-curated into 20,000 themes. By introducing a two-step approach that balances performance and efficiency, we managed to achieve 9-27{\%} improvement over recent paragraph-embedding based methods. Finally, we demonstrate how the thematic information learnt from movie characters can potentially be used to understand themes in the experience of people, as indicated on Reddit posts.",
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{wang-etal-2019-youre,
+    title = "No, you{'}re not alone: A better way to find people with similar experiences on {R}eddit",
+    author = "Wang, Zhilin  and
+      Rastorgueva, Elena  and
+      Lin, Weizhe  and
+      Wu, Xiaodong",
+    booktitle = "Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D19-5540",
+    doi = "10.18653/v1/D19-5540",
+    pages = "307--315",
+    abstract = "We present a probabilistic clustering algorithm that can help Reddit users to find posts that discuss experiences similar to their own. This model is built upon the BERT Next Sentence Prediction model and reduces the time complexity for clustering all posts in a corpus from O(n{\^{}}2) to O(n) with respect to the number of posts. We demonstrate that such probabilistic clustering can yield a performance better than baseline clustering methods based on Latent Dirichlet Allocation (Blei et al., 2003) and Word2Vec (Mikolov et al., 2013). Furthermore, there is a high degree of coherence between our probabilistic clustering and the exhaustive comparison O(n{\^{}}2) algorithm in which the similarity between every pair of posts is found. This makes the use of the BERT Next Sentence Prediction model more practical for unsupervised clustering tasks due to the high runtime overhead of each BERT computation.",
 }
