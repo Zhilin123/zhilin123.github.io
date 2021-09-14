@@ -17,7 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Under construction
 
-Hi there! I'm Zhilin and I work on Natural Language Processing for Conversational AI, Psychology and Education! [Find out more about my work here](/more)!  
+Hi there! I'm Zhilin and I work on Natural Language Processing for Conversational AI, Psychology and Education!
+
+[Find out more about my work here](/more)!  
 
 [My CV can be found here](https://github.com/Zhilin123/Publications/blob/master/Zhilin_Wang_CV.pdf){:target="\_blank"}
 

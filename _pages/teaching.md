@@ -10,7 +10,7 @@ To achieve my goal of using NLP to better understand how each person talks, thin
 
 ***During my MS Computational Linguistic (NLP) at University of Washington***
 
-1. How personal attributes (such as one's favourite food and music) can be extracted and inferred from conversational language, and their applications in open-domain chit-chat agents and multi-task task-oriented dialogue. <a href="https://github.com/Zhilin123/Publications/blob/master/personal_attributes.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a> <a href="https://github.com/Zhilin123/personal_attributes" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a>
+1. How personal attributes (such as one's favourite food and music) can be extracted and inferred from conversational language, and their applications in open-domain chit-chat agents and multi-task task-oriented dialogue. <a href="https://github.com/Zhilin123/Publications/blob/master/personal_attributes.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank" style="border: 1px solid">PDF</a> <a href="https://github.com/Zhilin123/personal_attributes" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank" style="border: 1px solid">Code</a>
 
 2. How to use commonsense knowledge and language models to understand how humans form expectations of events unfolding in stories and when such expectations fail?
 
