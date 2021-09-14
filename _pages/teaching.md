@@ -1,14 +1,12 @@
 ---
 layout: page
-permalink: /more
+permalink: /more/
 title: project details
-description:
+description: project details
 nav: True
 ---
 
-My hope is to one day
-
-To achieve my goal of using NLP to better understand how each person talks, thinks and feels, I have studied
+To achieve my goal of using NLP to better understand how each person talks, thinks and feels, I have worked on
 
 ***During my MS Computational Linguistic (NLP) at University of Washington***
 
