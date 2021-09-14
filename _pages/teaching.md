@@ -2,7 +2,7 @@
 layout: page
 permalink: /more/
 title: project details
-description: project details
+description: 
 nav: True
 ---
 
